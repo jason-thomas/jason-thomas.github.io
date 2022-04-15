@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StartBootstrap.Freelancer.Blazor/v17
+/.vs/StartBootstrap.Freelancer.Blazor/project-colors.json
+/.vs
